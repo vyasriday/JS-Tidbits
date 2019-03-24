@@ -79,3 +79,10 @@ function foo(str){
 let evalStr = `function evalScope() {}`;
 foo(evalStr); // ReferenceError: evalScope is not defined
 
+
+(function IIFE() {
+    let a = 12;
+    console.log(a);
+})();
+
+IIFE(); // ReferenceError
