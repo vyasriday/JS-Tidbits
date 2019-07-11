@@ -1,0 +1,22 @@
+{
+  "name": "js-snippets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vyasriday/js-snippets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vyasriday/js-snippets/issues"
+  },
+  "homepage": "https://github.com/vyasriday/js-snippets#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.2.6",
+    "eslint": "^4.19.1"
+  }
+}
