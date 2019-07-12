@@ -6,4 +6,9 @@ const currying = function(a) {
   };
 };
 
-console.log(currying(2)(3)(4));
+currying(2)(3)(4);
+
+// currying using es6 arrow functions
+
+const es6Currying = (x) => (y) => (z) => x+y+z;
+es6Currying(2)(3)(4);
