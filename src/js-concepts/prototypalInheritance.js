@@ -28,3 +28,6 @@ Employee.prototype.addBonus = function() {
 };
 
 var me = new Employee('Hridayesh', 22, 'Software Engineer', 2500);
+
+me.greet();
+me.addBonus(100);
