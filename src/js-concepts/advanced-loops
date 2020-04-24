@@ -1,0 +1,27 @@
+// Iterating: In javascript iterating can be performed on iterables like Arrays and Strings
+// Enumerating: When we loop over object keys using a for in loop that's called enumerating
+
+// for-of : over iterables
+
+let arr = [1,2,3]
+for (value of arr) {
+  console.log(value)
+} // 1,2,3
+
+let str = 'String'
+
+for(char of str ) {
+  console.log(char)
+} // S,t,r,i,n,g
+
+
+// for in loop for enumerating over Object keys or properties as object properties are enumerable
+
+let object = {name: 'Hridayesh', age: 23}
+for (key in object) {
+  console.log(key)
+} // 'name', 'age'
+
+for(inedx in arr) {
+  console.log(index)
+} // 0,1,2
