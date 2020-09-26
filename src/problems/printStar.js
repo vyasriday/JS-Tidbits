@@ -11,7 +11,7 @@
 printStar = (value) => {
     for(let i = 1; i <= value; ++i)
     {
-        console.log(`${Array(i).fill('*').join('')}`);
+        console.log('*'.repeat(i));
     }
   };
   
