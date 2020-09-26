@@ -15,3 +15,6 @@ There are 3 different ways you can contibute:
  NOTE: 
   - Please do not copy paste code from the internet and add in here!
   - Your code must be working
+
+
+## Before Creating a PR for any issue, Please Check if Someone has already been assigned the task or not. After creating PR ask for assigning the task to yourself.
