@@ -44,3 +44,25 @@ async function foo() {
   // DO this instead
   const result = await Promise.all([a(), b()]);
 }
+
+// async function that on top-level (e.g. your main function)
+// should handle an error with `try-catch`
+// or that error would be unhandled.
+// This is call `unhandled rejection`
+async function findSomethingToDrink() {
+  try {
+    await drink('coffee');
+  } catch (error) {
+    console.error(error); // output: Error: I want to drink a Coke (with a tracing stack for debugging purpose)
+  }
+}
+
+// on the lower level of abstraction, you might not need to handle the error (Don't repeat yourself)
+// unless you want to throw with another custom error
+async function drink(bottle) {
+  if (bottle !== 'Coke') {
+    throw new Error('I want to drink a Coke');
+  }
+
+  console.log('Refresh!');
+}
