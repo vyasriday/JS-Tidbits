@@ -21,6 +21,15 @@ const starPatternWithRepeat = (n) => {
 	} 
 }
 
+// Method 3: Using Array.fill
+
+printStarArrayFill = (value) => {
+    for(let i = 1; i <= value; ++i)
+    {
+        console.log(Array(i).fill('*').join(''));
+    }
+  };
+
 starPattern(5);
 //starPatternWithRepeat(5);
 
