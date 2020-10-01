@@ -19,7 +19,7 @@ There are 3 different ways you can contibute:
 ## :notebook_with_decorative_cover: Concepts
 The repo has following concepts:
 
-| Concept Name               | Description                                                                                         | Url                  |
+| Concept Name               | URL                                                                                                 | Description          |
 | ---------------------------| --------------------------------------------------------------------------------------------------  | ---------------------|
 | ES10                       | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/ES10.js)                    |   Description to file|
 | ES7                        | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/ES7.js)                     |   Description to file|
