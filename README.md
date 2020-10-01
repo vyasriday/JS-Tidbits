@@ -15,6 +15,14 @@ There are 3 different ways you can contibute:
  NOTE: 
   - Please do not copy paste code from the internet and add in here!
   - Your code must be working
+  
+## :notebook_with_decorative_cover: Concepts
+The repo has following concepts:
+
+| Concept Name        | Description                                                                 | Url                |
+| --------------------| --------------------------------------------------------------------------- | -------------------|
+| lnljm;              | Same version as Sh                                                          | [Link](https://exp.host/@amaurymartiny/shoot-i-smoke?release-channel=production-v1.6.8)  |
+
 
 
 ## Before Creating a PR for any issue, Please Check if Someone has already been assigned the task or not. After creating PR ask for assigning the task to yourself.
