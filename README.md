@@ -16,9 +16,9 @@ There are 3 different ways you can contibute:
   - Please do not copy paste code from the internet and add in here!
   - Your code must be working
 
-### Table of Contents
+## Table of Contents
   
-## :notebook_with_decorative_cover: Concepts
+### :notebook_with_decorative_cover: Concepts
 The repo has following concepts:
 
 | Concept Name               | URL                                                                                                 | Description          |
@@ -37,7 +37,7 @@ The repo has following concepts:
 | tryCatch                   | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/tryCatch.js)                |   Description        |
 
 
-## :memo: Problems
+### :memo: Problems
 The repo has following problems:
 
 | Problem Name               | URL                                                                                                 | Description          |
