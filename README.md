@@ -60,6 +60,4 @@ The repo has following problems:
 
 
 
-## Before Creating a PR for any issue, Please Check if Someone has already been assigned t
-
 ## Before Creating a PR for any issue, Please Check if Someone has already been assigned the task or not. After creating PR ask for assigning the task to yourself.
