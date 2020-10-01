@@ -42,10 +42,10 @@ The repo has following problems:
 | ---------------------------| --------------------------------------------------------------------------------------------------  | ---------------------|
 | capitalize                       | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/capitalize.js)              |   Description        |
 | Count Occurences of number in a range | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/countOccurencesOfANumberInARange.js) |   Description  |
-| Duplicat              | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/duplicate.js)                     |   Description        |
+| Duplicate              | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/duplicate.js)                     |   Description        |
 | Format String form Array| [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/formatStringFromArray.js) |   Description        |
 | longest Distinct Substring | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/longestDistinctSubstring.js)|   Description        |
-| Sub String Nested Array    | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/longestSubStringNestedArray.js)  |   Description        |
+| Longest Sub String Nested Array| [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/longestSubStringNestedArray.js)  |   Description    |
 | maskify                    | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/maskify.js)                 |   Description        |
 | maxChars                    | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/maxChars.js)                 |   Description        |
 | Palindrome                   | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/palindrome.js)                |   Description        |
