@@ -35,7 +35,7 @@ The repo has following concepts:
 | tryCatch                   | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/tryCatch.js)                |   Description        |
 
 
-## :memo::pencil: Problems
+## :memo: Problems
 The repo has following problems:
 
 | Problem Name               | URL                                                                                                 | Description          |
