@@ -40,18 +40,19 @@ The repo has following problems:
 
 | Problem Name               | URL                                                                                                 | Description          |
 | ---------------------------| --------------------------------------------------------------------------------------------------  | ---------------------|
-| ES10                       | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/ES10.js)                    |   Description        |
-| ES7                        | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/ES7.js)                     |   Description  |
-| ES8                        | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/ES8.js)                     |   Description        |
-| advanced-loops             | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/advanced-loops)             |   Description        |
-| arrays                     | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/arrays.js)                  |   Description        |
-| asyncAwait                 | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/asyncAwait.js)              |   Description to file|
-| compose                    | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/compose.js)                 |   Description to file|
-| console                    | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/console.js)                 |   Description to file|
-| currying                   | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/currying.js)                |   Description to file|
-| lexicalScope               | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/lexicalScope.js)            |   Description to file|
-| prototypalInheritance      | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/prototypalInheritance.js)   |   Description to file|
-| tryCatch                   | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/tryCatch.js)                |   Description to file|
+| capitalize                       | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/capitalize.js)              |   Description        |
+| Count Occurences of number in a range | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/countOccurencesOfANumberInARange.js) |   Description  |
+| Duplicat              | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/duplicate.js)                     |   Description        |
+| Format String form Array| [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/formatStringFromArray.js) |   Description        |
+| longest Distinct Substring | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/longestDistinctSubstring.js)|   Description        |
+| Sub String Nested Array    | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/longestSubStringNestedArray.js)  |   Description        |
+| maskify                    | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/maskify.js)                 |   Description        |
+| maxChars                    | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/maxChars.js)                 |   Description        |
+| Palindrome                   | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/palindrome.js)                |   Description        |
+| Smallest Next Element      | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/smallestNextElement.js)            |   Description        |
+| Satr Pattern      | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/starPattern.js)   |   Description        |
+| String Reversal                   | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/stringReversal.js)     |   Description        |
+| Unique                   | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/unique.js)     |   Description        |
 
 
 
