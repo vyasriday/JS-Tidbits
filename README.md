@@ -19,9 +19,20 @@ There are 3 different ways you can contibute:
 ## :notebook_with_decorative_cover: Concepts
 The repo has following concepts:
 
-| Concept Name        | Description                                                                 | Url                |
-| --------------------| --------------------------------------------------------------------------- | -------------------|
-| lnljm;              | Same version as Sh                                                          | [Link](https://exp.host/@amaurymartiny/shoot-i-smoke?release-channel=production-v1.6.8)  |
+| Concept Name               | Description                                                                                         | Url                  |
+| ---------------------------| --------------------------------------------------------------------------------------------------  | ---------------------|
+| ES10                       | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/ES10.js)                    |   Description to file|
+| ES7                        | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/ES7.js)                     |   Description to file|
+| ES8                        | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/ES8.js)                     |   Description to file|
+| advanced-loops             | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/advanced-loops)             |   Description to file|
+| arrays                     | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/arrays.js)                  |   Description to file|
+| asyncAwait                 | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/asyncAwait.js)              |   Description to file|
+| compose                    | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/compose.js)                 |   Description to file|
+| console                    | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/console.js)                 |   Description to file|
+| currying                   | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/currying.js)                |   Description to file|
+| lexicalScope               | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/lexicalScope.js)            |   Description to file|
+| prototypalInheritance      | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/prototypalInheritance.js)   |   Description to file|
+| tryCatch                   | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/tryCatch.js)                |   Description to file|
 
 
 
