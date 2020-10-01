@@ -40,23 +40,23 @@ The repo has following concepts:
 ### :memo: Problems
 The repo has following problems:
 
-| Problem Name               | URL                                                                                                 | Description          |
-| ---------------------------| --------------------------------------------------------------------------------------------------  | ---------------------|
-| Searching Algorithms           | [Link](https://github.com/vyasriday/JS-Tidbits/tree/master/src/problems/Searching)     |   Description        |
-| Sorting Algorithms             | [Link](https://github.com/vyasriday/JS-Tidbits/tree/master/src/problems/sorting)     |   Description        |
-| capitalize                       | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/capitalize.js)              |   Description        |
-| Count Occurences of number in a range | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/countOccurencesOfANumberInARange.js) |   Description  |
-| Duplicate              | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/duplicate.js)                     |   Description        |
-| Format String form Array| [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/formatStringFromArray.js) |   Description        |
-| longest Distinct Substring | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/longestDistinctSubstring.js)|   Description        |
-| Longest Sub String Nested Array| [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/longestSubStringNestedArray.js)  |   Description    |
-| maskify                    | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/maskify.js)                 |   Description        |
-| maxChars                    | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/maxChars.js)                 |   Description        |
-| Palindrome                   | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/palindrome.js)                |   Description        |
-| Smallest Next Element      | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/smallestNextElement.js)            |   Description        |
-| Star Pattern      | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/starPattern.js)   |   Description        |
-| String Reversal                   | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/stringReversal.js)     |   Description        |
-| Unique                   | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/unique.js)     |   Description        |
+| Problem Name                          | URL                                                                                                          | Description         |
+| --------------------------------------| -----------------------------------------------------------------------------------------------------------  | -----------------------------|
+| Searching Algorithms                  | [Link](https://github.com/vyasriday/JS-Tidbits/tree/master/src/problems/Searching)                           |   Description         |
+| Sorting Algorithms                    | [Link](https://github.com/vyasriday/JS-Tidbits/tree/master/src/problems/sorting)                             |   Description         |
+| capitalize                            | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/capitalize.js)                       |   Description         |
+| Count Occurences of number in a range | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/countOccurencesOfANumberInARange.js) |   Description         |
+| Duplicate                             | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/duplicate.js)                        |   Description         |
+| Format String form Array              | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/formatStringFromArray.js)            |   Description         |
+| Longest Distinct Substring            | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/longestDistinctSubstring.js)         |   Description         |
+| Longest Sub String Nested Array       | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/longestSubStringNestedArray.js)      |   Description         |
+| maskify                               | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/maskify.js)                          |   Description         |
+| maxChars                              | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/maxChars.js)                         |   Description         |
+| Palindrome                            | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/palindrome.js)                       |   Description         |
+| Smallest Next Element                 | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/smallestNextElement.js)              |   Description         |
+| Star Pattern                          | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/starPattern.js)                      |   Description         |
+| String Reversal                       | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/stringReversal.js)                   |   Description         |
+| Unique                                | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/unique.js)                           |   Description         |
 
 
 
