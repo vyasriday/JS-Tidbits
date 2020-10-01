@@ -21,11 +21,30 @@ The repo has following concepts:
 
 | Concept Name               | URL                                                                                                 | Description          |
 | ---------------------------| --------------------------------------------------------------------------------------------------  | ---------------------|
-| ES10                       | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/ES10.js)                    |   Description to file|
-| ES7                        | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/ES7.js)                     |   Description to file|
-| ES8                        | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/ES8.js)                     |   Description to file|
-| advanced-loops             | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/advanced-loops)             |   Description to file|
-| arrays                     | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/arrays.js)                  |   Description to file|
+| ES10                       | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/ES10.js)                    |   Description        |
+| ES7                        | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/ES7.js)                     |   Description        |
+| ES8                        | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/ES8.js)                     |   Description        |
+| advanced-loops             | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/advanced-loops)             |   Description        |
+| arrays                     | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/arrays.js)                  |   Description        |
+| asyncAwait                 | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/asyncAwait.js)              |   Description        |
+| compose                    | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/compose.js)                 |   Description        |
+| console                    | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/console.js)                 |   Description        |
+| currying                   | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/currying.js)                |   Description        |
+| lexicalScope               | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/lexicalScope.js)            |   Description        |
+| prototypalInheritance      | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/prototypalInheritance.js)   |   Description        |
+| tryCatch                   | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/tryCatch.js)                |   Description        |
+
+
+## :memo::pencil: Problems
+The repo has following problems:
+
+| Problem Name               | URL                                                                                                 | Description          |
+| ---------------------------| --------------------------------------------------------------------------------------------------  | ---------------------|
+| ES10                       | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/ES10.js)                    |   Description        |
+| ES7                        | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/ES7.js)                     |   Description  |
+| ES8                        | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/ES8.js)                     |   Description        |
+| advanced-loops             | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/advanced-loops)             |   Description        |
+| arrays                     | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/arrays.js)                  |   Description        |
 | asyncAwait                 | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/asyncAwait.js)              |   Description to file|
 | compose                    | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/compose.js)                 |   Description to file|
 | console                    | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/console.js)                 |   Description to file|
@@ -35,5 +54,7 @@ The repo has following concepts:
 | tryCatch                   | [Link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/concepts/tryCatch.js)                |   Description to file|
 
 
+
+## Before Creating a PR for any issue, Please Check if Someone has already been assigned t
 
 ## Before Creating a PR for any issue, Please Check if Someone has already been assigned the task or not. After creating PR ask for assigning the task to yourself.
