@@ -1,37 +1,48 @@
+// Quick sort algorithm in JS.
 /**
- * Implementation of Quick Sort
- * Input => [10,36,23,24,28,43,101]
- * Output => [
-  10, 23,  24, 28,
-  36, 43, 101
-]
- *  
- */
-function quickSort(items) {
-  var length = items.length;
+   @param {Array} arr Input array.
+    @param {Number} left Input left end number.
+    @param {Number} right Input right end number.
+    @return {Array} Sorted array.
+*/
 
-  if (length <= 1) {
-    return items;
-  }
-  var PIVOT = items[0];
-  var GREATER = [];
-  var LESSER = [];
-
-  for (var i = 1; i < length; i++) {
-    if (items[i] > PIVOT) {
-      GREATER.push(items[i]);
-    } else {
-      LESSER.push(items[i]);
+module.exports = {
+    quickSort: (arr, left, right) => {
+      let pivot, partitionIndex;
+  
+      if (left < right) {
+        pivot = right;
+        partitionIndex = partition(arr, pivot, left, right);
+  
+        // sort left and right
+        quickSort(arr, left, partitionIndex - 1);
+        quickSort(arr, partitionIndex + 1, right);
+      }
+      return arr;
+    },
+  };
+  
+  /**
+   * This function  keep move all the items smaller than the pivot value to the
+   * left and larger than pivot value to the right
+   */
+  function partition(arr, pivot, left, right) {
+    let pivotValue = arr[pivot],
+      partitionIndex = left;
+  
+    for (let i = left; i < right; i++) {
+      if (arr[i] < pivotValue) {
+        swap(arr, i, partitionIndex);
+        partitionIndex++;
+      }
     }
+    swap(arr, right, partitionIndex);
+    return partitionIndex;
   }
-
-  var sorted = quickSort(LESSER);
-  sorted.push(PIVOT);
-  sorted = sorted.concat(quickSort(GREATER));
-
-  return sorted;
-}
-
-var ar = [10, 36, 23, 24, 28, 43, 101];
-ar = quickSort(ar);
-console.log(ar);
+  
+  /** This function to swap values of the array. */
+  function swap(arr, i, j) {
+    let temp = arr[i];
+    arr[i] = arr[j];
+    arr[j] = temp;
+  }
