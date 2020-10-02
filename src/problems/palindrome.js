@@ -3,7 +3,7 @@
   we get abba. So this is a palindrome
 */
 
-palindrome = string => {
+palindrome = (string) => {
   let reversedString = string
     .split('')
     .reduce((reversed, character) => character + reversed, '');
@@ -13,7 +13,7 @@ palindrome = string => {
 
 // palindrome of a string using every array helper method
 
-palindromeUsingEvery = string => {
+palindromeUsingEvery = (string) => {
   return string
     .split('')
     .every(
@@ -23,7 +23,7 @@ palindromeUsingEvery = string => {
 
 //  palindrome for a given number using reduce method
 
-palindromeForANumber = number => {
+palindromeForANumber = (number) => {
   let reversedNumber = number
     .toString()
     .split('')
@@ -33,7 +33,7 @@ palindromeForANumber = number => {
 
 // palindrome without array helper method
 
-palindromeForANumberWithoutReduce = number => {
+palindromeForANumberWithoutReduce = (number) => {
   let num = number;
   let arr = [];
   while (num > 0) {
@@ -42,4 +42,16 @@ palindromeForANumberWithoutReduce = number => {
     arr.push(mod);
   }
   return +arr.join('') === number;
+};
+
+//palindrome of a number by converting to string and simple iteration
+const numberPalindromeWithString = (num) => {
+  var s = num.toString();
+  var reverse = '';
+  var i;
+  for (i = s.length; i >= 0; i--) {
+    reverse = reverse + s.charAt(i);
+  }
+  if (reverse === s) return s + ' is a plindrome';
+  else return s + ' is not a palindrome';
 };
