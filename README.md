@@ -21,6 +21,7 @@ There are 3 different ways you can contibute:
 Please Check if Someone has already been assigned the task or not. After creating PR ask for assigning the task to yourself.
 
 --------
+</br></br>
 
 ### Table of Contents
 
@@ -44,5 +45,49 @@ Please Check if Someone has already been assigned the task or not. After creatin
 
 🌟 ES stands for [ECMA](https://www.ecma-international.org) Script, which is a javascript standard. ES goes along to the numbrer corresponding to its release as ES6, ES7, etc.
 
+---------
+</br>
 
 #### Problems
+
+| Problem                   | Link          | Description     |   
+| --------------------------|-------------- | --------------- |
+| Capitalize                | [link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/capitalize.js) | ? |
+| Count ocurrencies of a number in a range      | [link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/countOccurencesOfANumberInARange.js) | ? | 
+| Duplicate                 | [link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/duplicate.js) | ? |
+| Longest distin            | [link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/formatStringFromArray.js) | ? |
+| Longest distinct substring| [link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/longestDistinctSubstring.js) | ? |
+| Longest substring nested  | [link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/longestSubStringNestedArray.js) | ? | 
+| Maskify                   | [link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/maskify.js) | ? |
+| Max char                  | [link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/maxChars.js) | ? |
+| Palindrome                | [link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/palindrome.js) | ? |
+| Smallest next element     | [link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/smallestNextElement.js) | ? | 
+| Start Pattern             | [link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/starPattern.js) | ? | 
+| String Reversal           | [link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/stringReversal.js) | ? | 
+| Unique                    | [link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/unique.js) | ? |
+
+Graphs
+
+| Problem               | Link          | Description     |   
+| ----------------------|-------------- | --------------- |
+| Dijkstra Algorithm    | [link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/Graphs/Dijkstra_algorithm.js) | ? |
+
+Searching
+
+| Problem               | Link          | Description     |   
+| ----------------------|-------------- | --------------- |
+| Binary Search         | [link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/Searching/binary_search.js) | ? |
+| Linear Seacrh         | [link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/Searching/linearsearch.js)  | ? |
+
+Sorting
+
+| Problem               | Link          | Description     |   
+| ----------------------|-------------- | --------------- |
+| Bubble sort           | [link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/sorting/bubble_sort.js) | ? |
+| Comb sort             | [link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/sorting/comb_sort.js)  | ? |
+| Heap sort             | [link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/sorting/heap_sort.js)  | ? |
+| Insertion sort        | [link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/sorting/insertion_sort.js)  | ? |
+| Merge sort            | [link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/sorting/merge_sort.js)  | ? |
+| Quick sort            | [link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/sorting/quick_sort.js)  | ? |
+| Radix sort            | [link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/sorting/radix_sort.js)  | ? |
+| Selection sort        | [link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/sorting/selection_sort.js)  | ? |
