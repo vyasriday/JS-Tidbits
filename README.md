@@ -62,15 +62,7 @@ Please Check if Someone has already been assigned the task or not. After creatin
 | Max char                  | [link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/maxChars.js) | Function that finds the character most repeated in an string, the function should return the char and the amount of times it appears. |
 | Palindrome                | [link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/palindrome.js) | Function that returns true if the string given is a palindrome (a word that is read the same when its reversed). You'll find 4 diff ways to solve it in the file. |
 | Smallest next element     | [link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/smallestNextElement.js) | Function that finds the next smallest element in the right (it could be 2 or more positions away) for a given array. | 
-| Start Pattern             | [link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/starPattern.js) | Function that creates a start pattern ~ triangle, starting with 1 * til it reaches the given number.
-```
-* 
-* * 
-* * * 
-* * * * 
-* * * * *
-```
-
+| Start Pattern             | [link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/starPattern.js) | Function that creates a start pattern ~ triangle, starting with 1 * until it reaches the given number. |
 | String Reversal           | [link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/stringReversal.js) | Function that takes a string and returns the string reversed. | 
 | Unique                    | [link](https://github.com/vyasriday/JS-Tidbits/blob/master/src/problems/unique.js) | This function takes an array and returns only the unique elements (excludes the elements that are a repetition of a previous element) |
 
