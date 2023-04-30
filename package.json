@@ -17,6 +17,6 @@
   "homepage": "https://github.com/vyasriday/js-snippets#readme",
   "devDependencies": {
     "babel-eslint": "^8.2.6",
-    "eslint": "^4.19.1"
+    "eslint": "^8.39.0"
   }
 }
